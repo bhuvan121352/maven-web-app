@@ -4,7 +4,7 @@
 
 <a href="https://bhuvanitech.com/online-training-schedules">godzilla</a>
   
-  <h2> Call Us : + 9052952945</h2>
+  <h2> Call Us : </h2>
   
   <h3>  Location : Rajahmundry, Andhra Pradesh </h3>
 
