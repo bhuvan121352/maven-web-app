@@ -30,6 +30,16 @@
             <li><a href="video.jsp?id=<%= entry.getKey() %>"><%= entry.getValue() %></a></li>
         <% } %>
     </ul>
+    <h2>Change Username:</h2>
+    <form action="changeUsername.jsp" method="post">
+        New Username: <input type="text" name="newUsername"><br>
+        <input type="submit" value="Change Username">
+    </form>
+    <h2>Change Password:</h2>
+    <form action="changePassword.jsp" method="post">
+        New Password: <input type="password" name="newPassword"><br>
+        <input type="submit" value="Change Password">
+    </form>
     <p><a href="logout.jsp">Logout</a></p>
 </body>
 </html>
