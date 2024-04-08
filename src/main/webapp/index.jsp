@@ -1,12 +1,12 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
+<!DOCTYPE html>
 <html>
+<head>
+    <title>Welcome to Streaming Platform</title>
+    <link rel="stylesheet" type="text/css" href="css/styles.css">
+</head>
 <body>
-<h1><font color='red'> Uncle cinemaa ki veldama <font></h1>
-
-<a href="https://bhuvanitech.com/online-training-schedules">godzilla</a>
-  
-  <h2> Call Us : </h2>
-  
-  <h3>  Location : Rajahmundry, Andhra Pradesh </h3>
-
+    <h1>Welcome to Streaming Platform</h1>
+    <p><a href="login.jsp">Login</a> to access our content.</p>
 </body>
 </html>
