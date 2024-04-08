@@ -7,6 +7,6 @@
 </head>
 <body>
     <h1>Welcome to Streaming Platform</h1>
-    <p><a href="login.jsp">Login</a> to access our content.</p>
+    <p><a href="dashboard.jsp">Login</a> to access our content.</p>
 </body>
 </html>
