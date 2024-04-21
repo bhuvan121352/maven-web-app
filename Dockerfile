@@ -2,7 +2,7 @@
 FROM tomcat:8.0.20-jre8
 
 # Set author label
-LABEL maintainer="Your Name <your.email@example.com>"
+LABEL maintainer="Bhuvan <mbm431997@gmail.com>"
 
 # Expose the default Tomcat port
 EXPOSE 8080
