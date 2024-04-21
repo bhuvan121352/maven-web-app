@@ -11,7 +11,7 @@ EXPOSE 8080
 RUN mkdir -p /usr/local/tomcat/webapps/maven-web-app
 
 # Copy the WAR file from your local machine to the Tomcat webapps directory in the container
-COPY target/maven-web-app.war /usr/local/tomcat/webapps/maven-web-app/maven-web-app.war
+COPY /home/ubuntu/builds/qBN_bybWR/0/bhuvan121352/maven-web-app/target/maven-web-app.war /usr/local/tomcat/webapps/maven-web-app/maven-web-app.war
 
 # Start Tomcat when the container launches
 CMD ["catalina.sh", "run"]
